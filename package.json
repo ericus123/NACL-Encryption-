@@ -1,0 +1,12 @@
+{
+  "name": "NACL-Encryption-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ericus123/NACL-Encryption-.git",
+  "author": "amani <amani@happymonk.co>",
+  "license": "MIT",
+  "dependencies": {
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
